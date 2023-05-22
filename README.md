@@ -33,3 +33,17 @@ Some general notes about the system include:
 When a patient is diagnosed with a disease, the system shows the general information associated with that disease, providing additional details and context.
 
 Overall, this doctor-patient management system allows for efficient diagnosis and information retrieval, ensuring seamless communication and collaboration between doctors and patients.
+
+## Project Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+</p>
+
+## Development Tools 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio"/>
+  </a>
+</p>
